@@ -3,7 +3,7 @@ This command-line application manages a company's employees using node, inquirer
 Note: This application runs on a command line and does not have a browser interface. 
 
 Sample Record Entry
-![img](sample.PNG)
+![img](EmployeeTracker/screenshots/sample.PNG)
 
 ## How To
 Download the source file and then install the following dependencies: 
